@@ -1,3 +1,21 @@
+% This Script is to generate the simulations for the plot of: Tau_max vs Peq
+
+% Full version:
+%               Diferent plot are going to be defined for different 
+%               Power distribution among the clusters.
+
+%README:
+%       The idea is to make 2 nested loops:
+%           * Outer loop: takes a value of P_eq = P_eq_i.
+%           * Inner loop: 
+%                        * Takes values of Tau for a constant d(tau)/dt and P_eq_i
+%                        * Defines the maximum Tau tolerated to the given conditions using LMI
+                    
+
+%-----------------------------------------------------------------------------
+%                   CONFIGURATION AND BASIC DEFINITIONS
+%-----------------------------------------------------------------------------
+
 cvx_setup
 cvx_solver mosek
 clc 

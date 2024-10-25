@@ -1,3 +1,17 @@
+% This Script is to generate the simulations for the plot of: Tau_max vs Peq vs Distributed control gain
+
+% Full version:
+%               Diferent plot are going to be defined for different 
+%               Power load and consensus gains.
+
+%README:
+%       The idea is to make 2 nested loops:
+%           * Outer loop: takes a value of P_eq = P_eq_i.
+%           * Mid loop: Takes a value of a_ij for the gain of the distributed control
+%           * Inner loop: 
+%                        * Takes values of Tau for a constant d(tau)/dt and P_eq_i
+%                        * Defines the maximum Tau tolerated to the given conditions using LMI
+                    
 
 %-----------------------------------------------------------------------------
 %                   CONFIGURATION AND BASIC DEFINITIONS
