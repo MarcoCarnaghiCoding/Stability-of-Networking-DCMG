@@ -78,8 +78,7 @@ pp. 921–933, 2023.
 + [13] M. Carnaghi, P. Cervellini, R. G. Retegui, M. Judewicz, and M. Funes, “Analysis of constant power loads impact on dc microgrid with distributed control,” in 2022 IEEE Biennial Congress of Argentina
 (ARGENCON), pp. 1–7, 2022.
 + [14] D. Liu, K. Jiang, L. Yan, X. Ji, K. Cao, and P. Xiong, “A fully distributed economic dispatch method in dc microgrid based on consensus algorithm,” IEEE Access, vol. 10, pp. 119345–119356, 2022.
-+ [15] W. Xie, M. Han, W. Cao, J. M. Guerrero, and J. C. Vasquez, “System-level large-signal stability analysis of droop-controlled dc microgrids,” IEEE Trans. Power Electron., vol. 36, no. 4, pp. 4224–4236,
-2021.
++ [15] W. Xie, M. Han, W. Cao, J. M. Guerrero, and J. C. Vasquez, “System-level large-signal stability analysis of droop-controlled dc microgrids,” IEEE Trans. Power Electron., vol. 36, no. 4, pp. 4224–4236 2021.
 + [16] S. Liu, X. Li, M. Xia, Q. Qin, and X. Liu, “Takagi-sugeno multimodeling-based large signal stability analysis of dc microgrid clusters,” IEEE Trans. Power Electron., vol. 36, no. 11, pp. 12670–12684, 2021.
 + [17] R. Han, M. Tucci, A. Martinelli, J. M. Guerrero, and G. Ferrari-Trecate, “Stability analysis of primary plug-and-play and secondary leader-based controllers for dc microgrid clusters,” IEEE Trans. Power Syst., vol. 34, no. 3, pp. 1780–1800, 2019.
 + [18] Y. Yu, G.-P. Liu, and W. Hu, “Coordinated distributed predictive control for voltage regulation of dc microgrids with communication delays and data loss,” IEEE Transactions on Smart Grid, vol. 14, no. 3,
