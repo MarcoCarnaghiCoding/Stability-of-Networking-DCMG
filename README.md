@@ -58,36 +58,36 @@ To run the MATLAB scripts and Simulink model:
 
 ### References
 
-[1] M. Shafiullah, A. Refat, M. E. Haque, D. M. H. Chowdhury, S. Hossain, A. Alharbi, S. Alam, A. Ali, and S. Hossain, “Review of recent developments in microgrid energy management strategies,”
++ [1] M. Shafiullah, A. Refat, M. E. Haque, D. M. H. Chowdhury, S. Hossain, A. Alharbi, S. Alam, A. Ali, and S. Hossain, “Review of recent developments in microgrid energy management strategies,”
 Sustainability, vol. 14, pp. 1–30, 11 2022.
-[2] Q. Zhou, M. Shahidehpour, A. Paaso, S. Bahramirad, A. Alabdulwahab, and A. Abusorrah, “Distributed control and communication strategies in networked microgrids,” IEEE Communications Surveys Tutorials, vol. 22, no. 4, pp. 2586–2633, 2020.
-[3] J. Liu, W. Zhang, and G. Rizzoni, “Robust stability analysis of dc microgrids with constant power loads,” IEEE Trans. Power Syst., vol. 33, no. 1, pp. 851–860, 2018.
-[4] M. Jeeninga, C. De Persis, and A. van der Schaft, “Dc power grids with constant-power loads—part i: A full characterization of power flow feasibility, long-term voltage stability, and their correspondence,” IEEE Transactions on Automatic Control, vol. 68, no. 1, pp. 2–17, 2023.
-[5] Z. Liu, M. Su, Y. Sun, X. Zhang, X. Liang, and M. Zheng, “A comprehensive study on the existence and stability of equilibria of dc-distribution networks with constant power loads,” IEEE Transactions
++ [2] Q. Zhou, M. Shahidehpour, A. Paaso, S. Bahramirad, A. Alabdulwahab, and A. Abusorrah, “Distributed control and communication strategies in networked microgrids,” IEEE Communications Surveys Tutorials, vol. 22, no. 4, pp. 2586–2633, 2020.
++ [3] J. Liu, W. Zhang, and G. Rizzoni, “Robust stability analysis of dc microgrids with constant power loads,” IEEE Trans. Power Syst., vol. 33, no. 1, pp. 851–860, 2018.
++ [4] M. Jeeninga, C. De Persis, and A. van der Schaft, “Dc power grids with constant-power loads—part i: A full characterization of power flow feasibility, long-term voltage stability, and their correspondence,” IEEE Transactions on Automatic Control, vol. 68, no. 1, pp. 2–17, 2023.
++ [5] Z. Liu, M. Su, Y. Sun, X. Zhang, X. Liang, and M. Zheng, “A comprehensive study on the existence and stability of equilibria of dc-distribution networks with constant power loads,” IEEE Transactions
 on Automatic Control, vol. 67, no. 4, pp. 1988–1995, 2022.
-[6] J. Liu, Y. Zhang, A. J. Conejo, and F. Qiu, “Ensuring transient stability with guaranteed region of attraction in dc microgrids,” IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 681–691, 2023.
-[7] Z. Liu, M. Su, Y. Sun, W. Yuan, H. Han, and J. Feng, “Existence and stability of equilibrium of dc microgrid with constant power loads,” IEEE Trans. Power Syst., vol. 33, no. 6, pp. 6999–7010, 2018.
-[8] M. Carnaghi, P. Cervellini, M. Judewicz, R. Garcia Retegui, and M. Funes, “Stability analysis of a networking dc microgrid with distributed droop control and cpls,” IEEE Latin America Transactions,
++ [6] J. Liu, Y. Zhang, A. J. Conejo, and F. Qiu, “Ensuring transient stability with guaranteed region of attraction in dc microgrids,” IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 681–691, 2023.
++ [7] Z. Liu, M. Su, Y. Sun, W. Yuan, H. Han, and J. Feng, “Existence and stability of equilibrium of dc microgrid with constant power loads,” IEEE Trans. Power Syst., vol. 33, no. 6, pp. 6999–7010, 2018.
++ [8] M. Carnaghi, P. Cervellini, M. Judewicz, R. Garcia Retegui, and M. Funes, “Stability analysis of a networking dc microgrid with distributed droop control and cpls,” IEEE Latin America Transactions,
 vol. 21, p. 966–975, Sep. 2023.
-[9] M. Dong, L. Li, Y. Nie, D. Song, and J. Yang, “Stability analysis of a novel distributed secondary control considering communication delay in dc microgrids,” IEEE Transactions on Smart Grid, vol. 10, no. 6,
++ [9] M. Dong, L. Li, Y. Nie, D. Song, and J. Yang, “Stability analysis of a novel distributed secondary control considering communication delay in dc microgrids,” IEEE Transactions on Smart Grid, vol. 10, no. 6,
 pp. 6690–6700, 2019.
-[10] A. B. Shyam, S. Anand, and S. R. Sahoo, “Effect of communication delay on consensus-based secondary controllers in dc microgrid,” IEEE Trans. Ind. Electron., vol. 68, no. 4, pp. 3202–3212, 2021.
-[11] W. Yao, Y. Wang, Y. Xu, and C. Dong, “Small-signal stability analysis and lead-lag compensation control for dc networked-microgrid under multiple time delays,” IEEE Trans. Power Syst., vol. 38, no. 1,
++ [10] A. B. Shyam, S. Anand, and S. R. Sahoo, “Effect of communication delay on consensus-based secondary controllers in dc microgrid,” IEEE Trans. Ind. Electron., vol. 68, no. 4, pp. 3202–3212, 2021.
++ [11] W. Yao, Y. Wang, Y. Xu, and C. Dong, “Small-signal stability analysis and lead-lag compensation control for dc networked-microgrid under multiple time delays,” IEEE Trans. Power Syst., vol. 38, no. 1,
 pp. 921–933, 2023.
-[12] Z. Liu, M. Su, Y. Sun, H. Han, X. Hou, and J. M. Guerrero, “Stability analysis of dc microgrids with constant power load under distributed control methods,” Automatica, vol. 90, p. 62–72, Apr. 2018.
-[13] M. Carnaghi, P. Cervellini, R. G. Retegui, M. Judewicz, and M. Funes, “Analysis of constant power loads impact on dc microgrid with distributed control,” in 2022 IEEE Biennial Congress of Argentina
++ [12] Z. Liu, M. Su, Y. Sun, H. Han, X. Hou, and J. M. Guerrero, “Stability analysis of dc microgrids with constant power load under distributed control methods,” Automatica, vol. 90, p. 62–72, Apr. 2018.
++ [13] M. Carnaghi, P. Cervellini, R. G. Retegui, M. Judewicz, and M. Funes, “Analysis of constant power loads impact on dc microgrid with distributed control,” in 2022 IEEE Biennial Congress of Argentina
 (ARGENCON), pp. 1–7, 2022.
-[14] D. Liu, K. Jiang, L. Yan, X. Ji, K. Cao, and P. Xiong, “A fully distributed economic dispatch method in dc microgrid based on consensus algorithm,” IEEE Access, vol. 10, pp. 119345–119356, 2022.
-[15] W. Xie, M. Han, W. Cao, J. M. Guerrero, and J. C. Vasquez, “System-level large-signal stability analysis of droop-controlled dc microgrids,” IEEE Trans. Power Electron., vol. 36, no. 4, pp. 4224–4236,
++ [14] D. Liu, K. Jiang, L. Yan, X. Ji, K. Cao, and P. Xiong, “A fully distributed economic dispatch method in dc microgrid based on consensus algorithm,” IEEE Access, vol. 10, pp. 119345–119356, 2022.
++ [15] W. Xie, M. Han, W. Cao, J. M. Guerrero, and J. C. Vasquez, “System-level large-signal stability analysis of droop-controlled dc microgrids,” IEEE Trans. Power Electron., vol. 36, no. 4, pp. 4224–4236,
 2021.
-[16] S. Liu, X. Li, M. Xia, Q. Qin, and X. Liu, “Takagi-sugeno multimodeling-based large signal stability analysis of dc microgrid clusters,” IEEE Trans. Power Electron., vol. 36, no. 11, pp. 12670–12684, 2021.
-[17] R. Han, M. Tucci, A. Martinelli, J. M. Guerrero, and G. Ferrari-Trecate, “Stability analysis of primary plug-and-play and secondary leader-based controllers for dc microgrid clusters,” IEEE Trans. Power Syst., vol. 34, no. 3, pp. 1780–1800, 2019.
-[18] Y. Yu, G.-P. Liu, and W. Hu, “Coordinated distributed predictive control for voltage regulation of dc microgrids with communication delays and data loss,” IEEE Transactions on Smart Grid, vol. 14, no. 3,
++ [16] S. Liu, X. Li, M. Xia, Q. Qin, and X. Liu, “Takagi-sugeno multimodeling-based large signal stability analysis of dc microgrid clusters,” IEEE Trans. Power Electron., vol. 36, no. 11, pp. 12670–12684, 2021.
++ [17] R. Han, M. Tucci, A. Martinelli, J. M. Guerrero, and G. Ferrari-Trecate, “Stability analysis of primary plug-and-play and secondary leader-based controllers for dc microgrid clusters,” IEEE Trans. Power Syst., vol. 34, no. 3, pp. 1780–1800, 2019.
++ [18] Y. Yu, G.-P. Liu, and W. Hu, “Coordinated distributed predictive control for voltage regulation of dc microgrids with communication delays and data loss,” IEEE Transactions on Smart Grid, vol. 14, no. 3,
 pp. 1708–1722, 2023.
-[19] Y. He, Q.-G. Wang, L. Xie, and C. Lin, “Further improvement of free-weighting matrices technique for systems with time-varying delay,” IEEE Trans. Autom. Control, vol. 52, no. 2, pp. 293–299, 2007.
-[20] C. Li, F. de Bosio, S. K. Chaudhary, M. Graells, J. C. Vasquez, and J. M. Guerrero, “Operation cost minimization of droop-controlled dc microgrids based on real-time pricing and optimal power flow,” in IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society, pp. 003905–003909, 2015.
-[21] M. Grant and S. Boyd in Graph implementations for nonsmooth convex programs, pp. 95–110, Springer-Verlag Limited, 2008.
-[22] M. Zaery and M. A. Abido, “Distributed optimal power dispatch for islanded dc microgrids with time delays,” IEEE Access, vol. 12, pp. 12533–12544, 2024.
++ [19] Y. He, Q.-G. Wang, L. Xie, and C. Lin, “Further improvement of free-weighting matrices technique for systems with time-varying delay,” IEEE Trans. Autom. Control, vol. 52, no. 2, pp. 293–299, 2007.
++ [20] C. Li, F. de Bosio, S. K. Chaudhary, M. Graells, J. C. Vasquez, and J. M. Guerrero, “Operation cost minimization of droop-controlled dc microgrids based on real-time pricing and optimal power flow,” in IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society, pp. 003905–003909, 2015.
++ [21] M. Grant and S. Boyd in Graph implementations for nonsmooth convex programs, pp. 95–110, Springer-Verlag Limited, 2008.
++ [22] M. Zaery and M. A. Abido, “Distributed optimal power dispatch for islanded dc microgrids with time delays,” IEEE Access, vol. 12, pp. 12533–12544, 2024.
 
 
 ### Acknowledgments
